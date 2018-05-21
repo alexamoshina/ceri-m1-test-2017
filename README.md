@@ -21,4 +21,4 @@
 
 [![codecov](https://codecov.io/gh/alexamoshina/ceri-m1-test-2017/branch/master/graph/badge.svg)](https://codecov.io/gh/alexamoshina/ceri-m1-test-2017)
 
-
+[![CircleCI](https://circleci.com/gh/alexamoshina/ceri-m1-test-2017.svg?style=svg)](https://circleci.com/gh/alexamoshina/ceri-m1-test-2017)
