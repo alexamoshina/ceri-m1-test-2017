@@ -27,7 +27,7 @@ public class EnvironmentProvider implements IEnvironmentProvider{
 	@Override
 	public IEnvironment getEnvironment(String name)
 			throws IllegalArgumentException {
-			if(name.equals(null)){
+			if(name.isEmpty()){
 				throw new IllegalArgumentException("Illegal argument");
 			}
 		
